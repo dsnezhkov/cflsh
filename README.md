@@ -13,7 +13,6 @@ Red side client
 `$ ./cflsh red`
 ```
 ✔ command: █
-command: ls█
 Setting up bucket: commandy9CgKEFRoCzxWcwRtD7LcZ
 Setting up output bucket: outputy9CgKEFRoCzxWcwRtD7LcZ
 Got output: 
@@ -35,7 +34,7 @@ OK: payload len 58
 Setting up response bucket: outputy9CgKEFRoCzxWcwRtD7LcZ
 ```
 
-`$ ./cflsh red buckets`
+`$ ./cflsh buckets`
 ```
  >> list 
     ... list of command and output buckets
